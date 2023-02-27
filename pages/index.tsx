@@ -19,21 +19,21 @@ const Home: NextPage = () => {
       {/* Content */}
       <div className={styles.container}>
         {/* Top Section */}
-        <h1 className={styles.h1}>NFT Marketplace w/ thirdweb + Next.JS</h1>
+        <h1 className={styles.h1}>Melosplace NFT | Rated E for everone</h1>
         <p className={styles.explain}>
-          Build an NFT marketplace using{" "}
+          {" "}
           <b>
             {" "}
             <a
-              href="https://thirdweb.com/"
+              href="https://meloinu.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.purple}
             >
-              thirdweb
+              Melo Inu
             </a>
           </b>{" "}
-          to list your ERC721 and ERC1155 tokens for auction or for direct sale.
+          NFTS made Simple..
         </p>
 
         <hr className={styles.divider} />
